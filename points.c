@@ -1,5 +1,6 @@
 // gcc points.c -o points -O2 -Wall -Wextra -lm -lxcb
 // Original: https://gist.github.com/antirez/9a3dc1bc9749792fc036ab4c04669a06
+// ChatGPT: https://chatgpt.com/share/6a2c3de3-2d98-83ea-b3da-4cf84810e01c
 
 #include <xcb/xcb.h>
 
