@@ -1,3 +1,6 @@
+// gcc points.c -o points -O2 -Wall -Wextra -lm -lxcb
+// Original: https://gist.github.com/antirez/9a3dc1bc9749792fc036ab4c04669a06
+
 #include <xcb/xcb.h>
 
 #include <stdint.h>
